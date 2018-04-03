@@ -1,0 +1,6 @@
+Please put BankInfo.txt into D:\ to do the test.
+Thanks!
+
+Solution project3 of C++ class in LasalleCollege Montreal December 10 2017
+Practice using C++ Read and write with flat txt file, to Create a console ATM application
+Gilbert Zhang xixi2010@gamil.com
